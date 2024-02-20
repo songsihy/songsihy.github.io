@@ -4,3 +4,11 @@
 - name: Note-1A
 - href: note-1A/s1e1.md
 - href: note-1A/s1e2.md
+
+- name: Note-1A
+items:
+- href: note-1A/s1e1.md
+- href: note-1A/s1e2.md
+
+- name: Note-1A
+  href: note-1A/
