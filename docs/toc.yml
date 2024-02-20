@@ -1,1 +1,6 @@
-auto: true
+- name: h-nav-g-1
+  href: h-nav-g-1/
+- name: h-nav-g-2
+  href: h-nav-g-2/
+
+
