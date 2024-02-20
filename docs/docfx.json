@@ -12,7 +12,7 @@
       "changefreq": "daily"
     },
     "output": "_site",
-    "template": ["default", "modern"],
+    "template": ["default", "modern","template"],
     "postProcessors": [ "ExtractSearchIndex" ],
     "globalMetadata": {
       "_appTitle": "Song Website",
