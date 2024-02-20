@@ -1,8 +1,9 @@
 - name: Home
   href: index.md
-- name: Note
-  href: Note/
+- name: Articles
+  href: articles/
 - name: Blog
-  href: Blog/TOC.yml
+  href: blog/
+  homepage: blog/index.md
 
 
