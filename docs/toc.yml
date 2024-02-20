@@ -1,7 +1,7 @@
 - name: Home
   href: index.md
 - name: Note
-  href: note/toc.yml
+  href: note/
 - name: Articles
   href: articles/
 - name: Blog
