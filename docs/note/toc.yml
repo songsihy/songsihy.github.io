@@ -1,5 +1,5 @@
 items:
 - name: Note-1
-  href: Note-1/toc.yml
+  href: Note-1/
 - name: Note-2
-  href: Note-2/toc.yml
+  href: Note-2/
