@@ -8,4 +8,4 @@ tag:
 
 # Blog index index
 
-s1e2Blog index Pages
+Blog index Pages
