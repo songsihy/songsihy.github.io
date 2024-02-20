@@ -1,4 +1,5 @@
 ---
+_disableNewTab: true
 _layout: landing
 title: "Index"
 description: Index
