@@ -1,8 +1,8 @@
 - name: Home
   href: index.md
-- name: HNavBar1
-  href: h-nav-g-1/
-- name: HNavBar2
-  href: h-nav-g-2/
+- name: Note
+  href: Note/
+- name: Blog
+  href: Blog/
 
 
