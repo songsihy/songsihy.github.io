@@ -7,6 +7,12 @@
       { "files": "**/images/**" }
     ],
     "output": "_site",
-    "template": ["default", "modern"]
+    "template": ["default", "modern"],
+    "postProcessors": [ "ExtractSearchIndex" ],
+    "globalMetadata": {
+      "_appTitle": "Song Website",
+      "_enableSearch": true,
+      "_enableNewTab": false
+    }    
   }
 }
