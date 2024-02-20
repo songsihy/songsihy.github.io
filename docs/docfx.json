@@ -5,6 +5,8 @@
     ],
     "resource": [
       { "files": "**/images/**" }
-    ]
+    ],
+    "output": "_site",
+    "template": ["default", "modern"]
   }
 }
